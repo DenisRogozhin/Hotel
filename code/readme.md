@@ -1,1 +1,1 @@
-
+Запуск: python interface.py
